@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alber\\Documents\\GitHub\\PragueParking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD3739C-36BB-4D7F-8911-3056BFFA0C1E}|PragueParking1.csproj|c:\\users\\alber\\documents\\github\\pragueparking\\pragueparking1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7FD3739C-36BB-4D7F-8911-3056BFFA0C1E}|PragueParking1.csproj|solutionrelative:pragueparking1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PragueParking1",
+              "DocumentMoniker": "C:\\Users\\Alber\\Documents\\GitHub\\PragueParking\\PragueParking1.csproj",
+              "RelativeDocumentMoniker": "PragueParking1.csproj",
+              "ToolTip": "C:\\Users\\Alber\\Documents\\GitHub\\PragueParking\\PragueParking1.csproj",
+              "RelativeToolTip": "PragueParking1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T21:28:17.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
